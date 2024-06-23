@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="106b8e38-7780-41bd-82bb-42277b7b891c" name="Changes" comment="Solution and JUNIT tests for snake-and-ladder-game" />
+    <list default="true" id="106b8e38-7780-41bd-82bb-42277b7b891c" name="Changes" comment="updating test file locations for snakes-and-ladder-game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,27 +36,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="snake_and_ladder_game" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.SnakeAndLadderBoardTest">
     <configuration name="DiceServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LLD_Interview_Problems" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DiceServiceTest" />
+      <option name="PACKAGE_NAME" value="snake_and_ladder_game" />
+      <option name="MAIN_CLASS_NAME" value="snake_and_ladder_game.DiceServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,8 +69,8 @@
     </configuration>
     <configuration name="DiceServiceTest.isAllSixes_notAllSixes_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LLD_Interview_Problems" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DiceServiceTest" />
+      <option name="PACKAGE_NAME" value="snake_and_ladder_game" />
+      <option name="MAIN_CLASS_NAME" value="snake_and_ladder_game.DiceServiceTest" />
       <option name="METHOD_NAME" value="isAllSixes_notAllSixes_false" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -72,8 +79,8 @@
     </configuration>
     <configuration name="LadderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LLD_Interview_Problems" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LadderTest" />
+      <option name="PACKAGE_NAME" value="snake_and_ladder_game" />
+      <option name="MAIN_CLASS_NAME" value="snake_and_ladder_game.LadderTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,8 +88,8 @@
     </configuration>
     <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LLD_Interview_Problems" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="PACKAGE_NAME" value="snake_and_ladder_game" />
+      <option name="MAIN_CLASS_NAME" value="snake_and_ladder_game.PlayerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,8 +97,8 @@
     </configuration>
     <configuration name="SnakeAndLadderBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LLD_Interview_Problems" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SnakeAndLadderBoardTest" />
+      <option name="PACKAGE_NAME" value="snake_and_ladder_game" />
+      <option name="MAIN_CLASS_NAME" value="snake_and_ladder_game.SnakeAndLadderBoardTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,7 +123,8 @@
       <option name="presentableId" value="Default" />
       <updated>1719066012110</updated>
       <workItem from="1719066013159" duration="5116000" />
-      <workItem from="1719147599877" duration="10196000" />
+      <workItem from="1719147599877" duration="10699000" />
+      <workItem from="1719160444745" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Git init and added snake-and-ladder-game problem statement">
       <option name="closed" value="true" />
@@ -134,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719158899957</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updating test file locations for snakes-and-ladder-game">
+      <option name="closed" value="true" />
+      <created>1719159057320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719159057320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +160,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Git init and added snake-and-ladder-game problem statement" />
     <MESSAGE value="Solution and JUNIT tests for snake-and-ladder-game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution and JUNIT tests for snake-and-ladder-game" />
+    <MESSAGE value="updating test file locations for snakes-and-ladder-game" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating test file locations for snakes-and-ladder-game" />
   </component>
 </project>
