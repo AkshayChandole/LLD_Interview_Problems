@@ -1,3 +1,5 @@
+package snake_and_ladder_game;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import snake_and_ladder_game.models.Snake;

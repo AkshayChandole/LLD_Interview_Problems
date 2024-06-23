@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="106b8e38-7780-41bd-82bb-42277b7b891c" name="Changes" comment="Git init and added snake-and-ladder-game problem statement">
-      <change afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/models/Ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/models/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/models/SnakeAndLadderBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/service/DiceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/service/SnakeAndLadderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DiceServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LadderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SnakeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/models/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/problem-statement.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/snake_and_ladder_game/problem-statement.md" afterDir="false" />
-    </list>
+    <list default="true" id="106b8e38-7780-41bd-82bb-42277b7b891c" name="Changes" comment="Solution and JUNIT tests for snake-and-ladder-game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719066012110</updated>
       <workItem from="1719066013159" duration="5116000" />
-      <workItem from="1719147599877" duration="9467000" />
+      <workItem from="1719147599877" duration="10196000" />
     </task>
     <task id="LOCAL-00001" summary="Git init and added snake-and-ladder-game problem statement">
       <option name="closed" value="true" />
@@ -142,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719066396230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Solution and JUNIT tests for snake-and-ladder-game">
+      <option name="closed" value="true" />
+      <created>1719158899957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719158899957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Git init and added snake-and-ladder-game problem statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git init and added snake-and-ladder-game problem statement" />
+    <MESSAGE value="Solution and JUNIT tests for snake-and-ladder-game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution and JUNIT tests for snake-and-ladder-game" />
   </component>
 </project>
