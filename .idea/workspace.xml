@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="106b8e38-7780-41bd-82bb-42277b7b891c" name="Changes" comment="Updating problem-statement.md">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tic_tac_toe/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tic_tac_toe/models/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tic_tac_toe/models/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tic_tac_toe/models/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tic_tac_toe/problem-statement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tic_tac_toe/services/TicTacToeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tic_tac_toe/models/BoardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tic_tac_toe/models/PieceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tic_tac_toe/models/PlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tic_tac_toe/services/TicTacToeServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="106b8e38-7780-41bd-82bb-42277b7b891c" name="Changes" comment="Added tic-tac-toe problem, its solution and updated tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="snake_and_ladder_game.models" />
       <recent name="snake_and_ladder_game" />
     </key>
   </component>
@@ -166,7 +155,7 @@
       <workItem from="1719066013159" duration="5116000" />
       <workItem from="1719147599877" duration="10699000" />
       <workItem from="1719160444745" duration="1693000" />
-      <workItem from="1719387411099" duration="5984000" />
+      <workItem from="1719387411099" duration="6297000" />
     </task>
     <task id="LOCAL-00001" summary="Git init and added snake-and-ladder-game problem statement">
       <option name="closed" value="true" />
@@ -200,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719161483830</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added tic-tac-toe problem, its solution and updated tests">
+      <option name="closed" value="true" />
+      <created>1719393675768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719393675768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +209,7 @@
     <MESSAGE value="Solution and JUNIT tests for snake-and-ladder-game" />
     <MESSAGE value="updating test file locations for snakes-and-ladder-game" />
     <MESSAGE value="Updating problem-statement.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating problem-statement.md" />
+    <MESSAGE value="Added tic-tac-toe problem, its solution and updated tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tic-tac-toe problem, its solution and updated tests" />
   </component>
 </project>
