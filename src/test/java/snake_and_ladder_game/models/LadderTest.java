@@ -1,8 +1,7 @@
-package snake_and_ladder_game;
+package snake_and_ladder_game.models;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import snake_and_ladder_game.models.Ladder;
 
 public class LadderTest {
     @Test

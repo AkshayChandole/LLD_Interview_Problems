@@ -1,4 +1,4 @@
-package snake_and_ladder_game;
+package snake_and_ladder_game.services;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

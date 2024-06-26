@@ -1,11 +1,8 @@
-package snake_and_ladder_game;
+package snake_and_ladder_game.models;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import snake_and_ladder_game.models.Ladder;
-import snake_and_ladder_game.models.Snake;
-import snake_and_ladder_game.models.SnakeAndLadderBoard;
 
 import java.util.ArrayList;
 import java.util.HashMap;
